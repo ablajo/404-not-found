@@ -1,0 +1,50 @@
+html{
+    font-family: monospace;
+}
+h1{
+    font-size: 20px;
+}
+img{
+    max-width: 35%;
+    float: left;
+    position: relative;
+    top: 50px;
+}
+.text{
+    float: right;
+    position: relative;
+    top: 50px;
+    left: -150px;
+}
+h2{
+        font-size: 40px
+
+}
+.text p{
+    font-size: 20px;
+    color: grey;
+    margin-top: 50px;
+}
+button{
+    margin-top: 40px;
+    font-size: 15px;
+    line-height: 50px;
+    background-color: black;
+    color: white;
+}
+footer{
+    padding-top: 600px;
+}
+@media screen and (max-width: 700px){
+    html{
+        font-size: 15px;
+        margin-left: 15px;
+    }
+    img{
+        max-width: 40%;
+        margin-left: 15%;
+    }
+   
+    .text{
+        margin-left: 25%;
+    }
