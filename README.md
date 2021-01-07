@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-neon.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://404-not-found-neon.vercel.app/">
       Solution
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [your-website.com](https://404-not-found-neon.vercel.app/)
 - GitHub [@ablajo](https://github.com/ablajo)
 - Twitter [@kekeli_t](https://twitter.com/kekeli_t)
